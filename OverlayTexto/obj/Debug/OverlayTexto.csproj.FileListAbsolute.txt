@@ -1,0 +1,7 @@
+C:\Projetos\Azadive\OverlayTexto\OverlayTexto\bin\Debug\OverlayTexto.exe.config
+C:\Projetos\Azadive\OverlayTexto\OverlayTexto\bin\Debug\OverlayTexto.exe
+C:\Projetos\Azadive\OverlayTexto\OverlayTexto\bin\Debug\OverlayTexto.pdb
+C:\Projetos\Azadive\OverlayTexto\OverlayTexto\obj\Debug\OverlayTexto.csprojAssemblyReference.cache
+C:\Projetos\Azadive\OverlayTexto\OverlayTexto\obj\Debug\OverlayTexto.csproj.CoreCompileInputs.cache
+C:\Projetos\Azadive\OverlayTexto\OverlayTexto\obj\Debug\OverlayTexto.exe
+C:\Projetos\Azadive\OverlayTexto\OverlayTexto\obj\Debug\OverlayTexto.pdb
